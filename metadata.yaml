@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8302'
     url: http://www.gutenberg.org/2009/agents/8302
     wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 64516-h/images/cover.jpg
 creator:
   author:
     agent_name: Curtis, Betsy
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '36000'
     url: http://www.gutenberg.org/2009/agents/36000
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64516#Temptress-of-Planet-Delight
 gutenberg_issued: '2021-02-10'
 gutenberg_type: Text
 identifiers:
